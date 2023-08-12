@@ -1,3 +1,4 @@
+<img width=100% weight=40 src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=header"/>
 <h1> Hi there, I'm Pedro <img src="https://i.gifer.com/origin/4a/4affcf8fad1c83191bcf59c52fcd0098_w200.gif" width="60"></h1>
 
 About me:
@@ -44,4 +45,4 @@ About me:
   <a href="https://www.linkedin.com/in/pedro-pamplona-a1348a1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:pedrocp010102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>  
