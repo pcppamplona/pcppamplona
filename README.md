@@ -2,13 +2,12 @@
 <h1> Hi there, I'm Pedro <img src="https://i.gifer.com/origin/4a/4affcf8fad1c83191bcf59c52fcd0098_w200.gif" width="60"></h1>
 
 About me:
-  - 🔭 I’m currently working as an Intern at <a href="https://www.linkedin.com/company/focosp/mycompany/" target="_blank"> FocoSP 🧡 </a>  
-  - 📚 Focused in learning <a href="https://www.typescriptlang.org/" target="_blank"> TypeScript,  <a href="https://react.dev/" target="_blank"> React.js & <a href="https://nextjs.org/" target="_blank">Next.js,  <a href="https://nodejs.org/en/" target="_blank">Node.js, <a href="https://docs.flutter.dev/" target="_blank">Flutter🧠
+  - 🔭 I’m currently working as an Intern at <a href="https://truther.to/" target="_blank"> Truther 💚 </a>  
+  - 📚 Focused in learning <a href="https://www.typescriptlang.org/" target="_blank"> TypeScript,  <a href="https://react.dev/" target="_blank"> React.js & <a href="https://nextjs.org/" target="_blank">Next.js,  <a href="https://nodejs.org/en/" target="_blank">Node.js🧠
   - 📌 I live in <a href="https://goo.gl/maps/nLRy6dtq2RVx21xt6/" target="_blank"> São Paulo, Brazil 🔰
-  - 👨‍🎓 Currently studying at <a href="https://www.linkedin.com/school/faculdade-de-tecnologia-de-s%C3%A3o-paulo-fatec-sp" target="_blank"/> FATEC SP 🎓 </a> 
+  - 👨‍🎓 Currently studying at <a href="https://www.linkedin.com/school/faculdade-de-tecnologia-de-s%C3%A3o-paulo-fatec-sp" target="_blank"/> FATEC🎓 </a> 
   - 💬 Any help or tips are always welcome!
   #
-  
 <br>
 
 <div>
@@ -37,6 +36,21 @@ About me:
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
+
+<br>
+Other experiences
+<ul style="list-style: none; padding: 0;">
+  <li style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGK0nlzErBvnQ/company-logo_200_200/company-logo_200_200/0/1648051666676/focosp_logo?e=1747872000&v=beta&t=uKT8NAkjbDVJNzz3iN2-9exlVzBNPDEW9rUO6oMVo4M" 
+         alt="Foco SP" width="24" height="24" style="border-radius: 50%;">
+    <a href="https://www.focosp.com/" target="_blank">Foco SP</a>
+  </li>
+  <li style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQF593q5GjtWhw/company-logo_200_200/company-logo_200_200/0/1724767945878?e=1747872000&v=beta&t=I0lF6GIOyVnKaoBhZ1NjWI8bPAaT3g_93z4IF46ZoPg" 
+         alt="WeeW" width="24" height="24" style="border-radius: 50%;">
+    <a href="https://www.linkedin.com/company/weew-artificial-inteligence/" target="_blank">Weew</a>
+  </li>
+</ul>
 
   #
   
