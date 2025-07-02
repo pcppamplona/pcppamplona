@@ -1,5 +1,5 @@
 <img width=100% weight=40 src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=header"/>
-<h1> Hi there, I'm Pedro <img src="https://i.gifer.com/origin/4a/4affcf8fad1c83191bcf59c52fcd0098_w200.gif" width="60"></h1>
+<h1> Hi there, I'm Pedro </h1>
 
 About me:
   - 🔭 I’m currently working as an Intern at <a href="https://truther.to/" target="_blank"> Truther 💚 </a>  
@@ -38,7 +38,7 @@ About me:
 </p>
 
 <br>
-Other experiences
+<!-- Other experiences
 <ul style="list-style: none; padding: 0;">
   <li style="display: flex; align-items: center; gap: 8px;">
     <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGK0nlzErBvnQ/company-logo_200_200/company-logo_200_200/0/1648051666676/focosp_logo?e=1747872000&v=beta&t=uKT8NAkjbDVJNzz3iN2-9exlVzBNPDEW9rUO6oMVo4M" 
@@ -50,7 +50,7 @@ Other experiences
          alt="WeeW" width="24" height="24" style="border-radius: 50%;">
     <a href="https://www.linkedin.com/company/weew-artificial-inteligence/" target="_blank">Weew</a>
   </li>
-</ul>
+</ul> -->
 
   #
   
